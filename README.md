@@ -1,8 +1,9 @@
-## Hi there 👋
- *https://www.youtube.com/watch?v=xbNx7ZrqK6I
+<div>
+	<img width="100%"  src="https://res.cloudinary.com/dmu7h8vif/image/upload/v1746684761/imgbarnner_bsnexc.jpg" >
+</div>
 
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Saurabh</a></h1>
+<h1 align="center">Hola 👋, Soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Kevin</a></h1>
 <h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
@@ -57,7 +58,7 @@ Saurabh</a></h1>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,angular,react,typescript" />
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,git,github,html,java,js,mysql,nodejs,py,react,spring,ts,wordpress" />
   </a>
 
 </p>
@@ -77,7 +78,7 @@ Saurabh</a></h1>
 <br>
   <br>
   
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
 | --- | --- |
@@ -89,8 +90,4 @@ Saurabh</a></h1>
 <br>
 
 
----
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
