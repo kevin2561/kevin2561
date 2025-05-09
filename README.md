@@ -10,9 +10,14 @@ Kevin</a></h1>
 
 <p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.pinimg.com/originals/08/fb/61/08fb615b1a389de5bc0410136d75f50d.gif">
-</a>
+<div align="center">
+	
+
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.pinimg.com/originals/08/fb/61/08fb615b1a389de5bc0410136d75f50d.gif">
+</div>
+
+
+
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
 
