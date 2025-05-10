@@ -9,7 +9,8 @@ Kevin</a></h1>
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.pinimg.com/originals/08/fb/61/08fb615b1a389de5bc0410136d75f50d.gif">
 </div>
 
-<h1 border="0px">Sobre mi</h1>
+
+<h3>Sobre mi 👨‍🎓</h3>
 <p>Soy Ingeniero de Software con una gran pasión por el desarrollo web, especialmente en el área de frontend.</p>
 <p>Me gusta crear interfaces intuitivas y atractivas que brinden una buena experiencia al usuario.</p>
 <p>También tengo conocimientos intermedios en backend y en bases de datos con SQL.</p>
