@@ -15,7 +15,7 @@ Kevin</a></h1>
 <p>Me gusta crear interfaces intuitivas y atractivas que brinden una buena experiencia al usuario.</p>
 <p>También tengo conocimientos intermedios en backend y en bases de datos con SQL.</p>
 <p>Sigo aprendiendo y mejorando mis habilidades constantemente para convertirme en un desarrollador web más completo.</p>
-<a href="mailto:kevinnoa02@gmail.com" style="padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">📧 Envíame un correo</a>
+<!--<a href="mailto:kevinnoa02@gmail.com" style="padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">📧 Envíame un correo</a> -->
 
 <br/>
 <br/>
@@ -36,9 +36,7 @@ Kevin</a></h1>
 
 <h2> Contáctame <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a  href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8' target="_blank"> <img  align= 'center' src="https://skillicons.dev/icons?i=linkedin"/></a> 
-<a href="mailto:kevinnoa02@gmail.com">
-  <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Correo Kevin Noa" />
-</a>
+<a href = 'mailto:kevinnoa02@gmail.com'> <img  align= 'center' src="https://skillicons.dev/icons?i=gmail"/></a> 
 <a  href = 'https://kevin2561.github.io/portafolio/' target='_blank'> <img width= 48px heigth= 48px  align= 'center' src="https://cdn-icons-png.flaticon.com/512/8743/8743996.png"/></a> 
   
 <br>
