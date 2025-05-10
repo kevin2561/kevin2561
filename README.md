@@ -1,3 +1,7 @@
+<a href="mailto:kevinnoa02@gmail.com?subject=Asunto%20del%20correo&body=Cuerpo%20del%20correo">
+  <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Correo Kevin Noa" />
+</a>
+
 <div>
 	<img width="100%"  src="https://res.cloudinary.com/dmu7h8vif/image/upload/v1746848823/BANNER2_qlw4ua.png" >
 </div>
