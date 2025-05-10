@@ -10,7 +10,7 @@ Kevin</a></h1>
 </div>
 
 <h2 border="0">Sobre mi</h2>
-## Sobre mí
+
 <p>Soy Ingeniero de Software con una gran pasión por el desarrollo web, especialmente en el área de frontend.</p>
 <p>Me gusta crear interfaces intuitivas y atractivas que brinden una buena experiencia al usuario.</p>
 <p>También tengo conocimientos intermedios en backend y en bases de datos con SQL.</p>
