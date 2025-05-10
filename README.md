@@ -26,7 +26,7 @@ Kevin</a></h1>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,git,github,html,java,js,mysql,nodejs,py,react,spring,ts,wordpress" />
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,git,github,html,java,js,mysql,nodejs,postman,py,react,spring,ts,wordpress" />
   </a>
 </p>
 
