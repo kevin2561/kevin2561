@@ -5,17 +5,26 @@
 <h1 align="center">Hola 👋, Soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Kevin</a></h1>
 
-<div align="center">
-<img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.pinimg.com/originals/08/fb/61/08fb615b1a389de5bc0410136d75f50d.gif">
-</div>
 
 
 <h3>Sobre mi 👨‍🎓</h3>
-<p>Soy Ingeniero de Software con una gran pasión por el desarrollo web, especialmente en el área de frontend.</p>
-<p>Me gusta crear interfaces intuitivas y atractivas que brinden una buena experiencia al usuario.</p>
-<p>También tengo conocimientos intermedios en backend y en bases de datos con SQL.</p>
-<p>Sigo aprendiendo y mejorando mis habilidades constantemente para convertirme en un desarrollador web más completo.</p>
-<!--<a href="mailto:kevinnoa02@gmail.com" style="padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">📧 Envíame un correo</a> -->
+
+<table>
+  <tr>
+    <td>
+      <p>Soy Ingeniero de Software con una gran pasión por el desarrollo web, especialmente en el área de frontend.</p>
+      <p>Me gusta crear interfaces intuitivas y atractivas que brinden una buena experiencia al usuario.</p>
+      <p>También tengo conocimientos intermedios en backend y en bases de datos con SQL.</p>
+      <p>Sigo aprendiendo y mejorando mis habilidades constantemente para convertirme en un desarrollador web más completo.</p>
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/originals/08/fb/61/08fb615b1a389de5bc0410136d75f50d.gif" alt="GIF" height="300" width="400">
+    </td>
+  </tr>
+</table>
+
+	
+ <!--<a href="mailto:kevinnoa02@gmail.com" style="padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">📧 Envíame un correo</a> -->
 
 <br/>
 <br/>
