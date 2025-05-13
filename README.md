@@ -44,7 +44,7 @@ Kevin</a></h1>
 
 
 <h2> Contáctame <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a  href = 'https://www.linkedin.com/in/kevin-noa-romero-8005122a3/' target="_blank"> <img  align= 'center' src="https://skillicons.dev/icons?i=linkedin"/></a> 
+<a  href = 'https://www.linkedin.com/in/kevin-noa-romero-8005122a3/' > <img  align= 'center' src="https://skillicons.dev/icons?i=linkedin"/></a> 
 <a href = 'mailto:kevinnoa02@gmail.com'> <img  align= 'center' src="https://skillicons.dev/icons?i=gmail"/></a> 
 <a  href = 'https://kevin2561.github.io/portafolio/' target='_blank'> <img width= 48px heigth= 48px  align= 'center' src="https://cdn-icons-png.flaticon.com/512/8743/8743996.png"/></a> 
   
